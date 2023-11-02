@@ -1,3 +1,7 @@
+![Cyber Gen 2.1](https://imgur.com/pLSpXqF.png)
+
+
+
 # Cyber Password Generator
 
 Cyber Password Generator is a simple and secure password generator built with Python and Tkinter. It provides a user-friendly interface that allows users to generate random passwords with a mix of letters, digits, and special characters.
