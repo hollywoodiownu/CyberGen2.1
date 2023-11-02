@@ -1,5 +1,5 @@
 
-![image-removebg-preview(24)](https://github.com/hollywoodiownu/CyberGen2.1/assets/73688953/ba8ac503-bba4-48ea-8586-bcecf5181cec)
+[image-removebg-preview(24)](https://github.com/hollywoodiownu/CyberGen2.1/assets/73688953/ba8ac503-bba4-48ea-8586-bcecf5181cec)
 
 # Cyber Password Generator
 
