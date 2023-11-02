@@ -1,4 +1,4 @@
-![Cyber Gen 2.1](https://imgur.com/pLSpXqF.png)
+https://imgur.com/pLSpXqF.png
 
 
 
