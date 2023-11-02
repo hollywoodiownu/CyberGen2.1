@@ -1,4 +1,4 @@
-![Cyber Gen 2.1](https://raw.githubusercontent.com/hollywoodiownu/CyberGen2.1/main/assets/image-name.png)
+![Cyber Gen 2.1](https://tinyurl.com/53fnab4v)
 
 
 # Cyber Password Generator
